@@ -127,12 +127,15 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  
+  border-radius: 6px;
+  background-color: #181818;  
+}
+.herosection ul li:hover{
+   background-color: #252525;
 }
 .herosection ul li span{
   color: red;
   font-size: 25px;
-  
 }
 .herosection ul li a{
   text-decoration: none;
